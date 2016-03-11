@@ -1,0 +1,11 @@
+layout_spectrum: 0.8954096
+typography_spectrum: 0.8924731
+color:
+  saturation: 0.6981823
+  lightness: 0.39569
+  brandStrength: 0.2415698
+  brandColors:
+    - '#322F6E'
+    - '#D1DED0'
+  rhythmicContrast: 0.377593
+name: BEARDalert
