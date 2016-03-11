@@ -1,11 +1,23 @@
-layout_spectrum: 0.8954096
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8924731
 color:
   saturation: 0.6981823
-  lightness: 0.39569
   brandStrength: 0.2415698
+  rhythmicContrast: 0.377593
   brandColors:
     - '#322F6E'
     - '#D1DED0'
-  rhythmicContrast: 0.377593
+  lightness: 0.39569
+layout_spectrum: 0.4946237
 name: BEARDalert
